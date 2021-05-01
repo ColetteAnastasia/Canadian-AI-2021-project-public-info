@@ -1,2 +1,2 @@
-# This is my honor thesis, my supervisor Danny Silver and me also submit a 6-page version to Canadian AI 2021, it is confirmed acceptted and will be published soon. I don't think anyone will need my code anyway, but feel free to take it if you need.
+# This is my honor thesis, my supervisor Danny Silver and me also submit a 6-page version to Canadian AI 2021, it is confirmed accepted and will be published soon. I don't think anyone will need my code anyway, but feel free to take it if you need.
 # CNN code is stored in ipynb, which should be modified using jupyter notebook and DBN code is just python, beware there are 2 model.py file. ✧(≖ ◡ ≖✿)
